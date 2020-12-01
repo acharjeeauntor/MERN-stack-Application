@@ -1,0 +1,19 @@
+.signin{
+     background-color: silver;
+     width: 600px;
+     height: 500px;
+     box-sizing: content-box;
+     margin-left: 250px;
+     margin-top: 10px;
+     border-radius: 15px 15px 15px 15px;
+}
+
+.signup {
+     background-color: silver;
+     width: 600px;
+     height: 575px;
+     box-sizing: content-box;
+     margin-left: 250px;
+     border-radius: 15px 15px 15px 15px;
+}
+

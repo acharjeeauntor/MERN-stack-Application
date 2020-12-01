@@ -1,0 +1,36 @@
+.top {
+     background-image: url('../../../img/creating_a_budget.jpg');
+     height: 350px;
+     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+     text-align: center;
+}
+
+.bottom{
+     text-align: center;
+     font-family: Cambria,
+     Cochin,
+     Georgia,
+     Times,
+     'Times New Roman',
+     serif;
+}
+.form{
+   background-color: wheat;
+   block-size:65px;
+   font-size: 24px;
+}
+
+.list{
+     background-color: gainsboro;
+     block-size:35px;
+     font-size: 20px;
+     width: 600px;
+     color: black;
+}
+.item {
+     margin-right: 200px;
+     color: black;
+}
+
+     
+
